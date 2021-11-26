@@ -1,6 +1,6 @@
 {
   "name": "material-dashboard-react",
-  "private": true,
+  "private": false,
   "homepage": "https://dereklau1019.github.io/NewWorldDatabaseTraditionalChinese",
   "version": "1.10.0",
   "description": "New World Database for Seawolf1019's Friends !",
