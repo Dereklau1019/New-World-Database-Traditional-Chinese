@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/New-World-Database-Traditional-Chinese/static/css/main.69014dd0.chunk.css",
+    "main.js": "/New-World-Database-Traditional-Chinese/static/js/main.6b807f00.chunk.js",
+    "main.js.map": "/New-World-Database-Traditional-Chinese/static/js/main.6b807f00.chunk.js.map",
+    "runtime-main.js": "/New-World-Database-Traditional-Chinese/static/js/runtime-main.cc136634.js",
+    "runtime-main.js.map": "/New-World-Database-Traditional-Chinese/static/js/runtime-main.cc136634.js.map",
+    "static/css/2.1881a404.chunk.css": "/New-World-Database-Traditional-Chinese/static/css/2.1881a404.chunk.css",
+    "static/js/2.9b2e4952.chunk.js": "/New-World-Database-Traditional-Chinese/static/js/2.9b2e4952.chunk.js",
+    "static/js/2.9b2e4952.chunk.js.map": "/New-World-Database-Traditional-Chinese/static/js/2.9b2e4952.chunk.js.map",
+    "index.html": "/New-World-Database-Traditional-Chinese/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/New-World-Database-Traditional-Chinese/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.69014dd0.chunk.css.map": "/New-World-Database-Traditional-Chinese/static/css/main.69014dd0.chunk.css.map",
+    "static/js/2.9b2e4952.chunk.js.LICENSE.txt": "/New-World-Database-Traditional-Chinese/static/js/2.9b2e4952.chunk.js.LICENSE.txt",
+    "static/media/sidebar-1.0a127c58.jpg": "/New-World-Database-Traditional-Chinese/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/New-World-Database-Traditional-Chinese/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/New-World-Database-Traditional-Chinese/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/New-World-Database-Traditional-Chinese/static/media/sidebar-4.dd4b5581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc136634.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.9b2e4952.chunk.js",
+    "static/css/main.69014dd0.chunk.css",
+    "static/js/main.6b807f00.chunk.js"
+  ]
+}
