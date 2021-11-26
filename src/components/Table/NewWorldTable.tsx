@@ -20,7 +20,7 @@ export default class NewWorldTable extends React.Component<
           <tbody>
             <td>
               {/* {this.props.jsonItems.map((i) => i["id"])} */}
-              Tse Wai Ho
+              CK Lau
             </td>
           </tbody>
           <tfoot></tfoot>
