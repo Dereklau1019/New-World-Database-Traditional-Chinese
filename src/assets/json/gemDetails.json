@@ -1,0 +1,234 @@
+[
+  {
+    "id": "1",
+    "gemImage": "",
+    "typeOfGem": "Aquamarine",
+    "effectNames": "Frozen",
+    "effects": "20/30/40/50% of damage is converted to Ice. Damage scales from INT or base weapon stat, whichever is higher.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "2",
+    "gemImage": "",
+    "typeOfGem": "Ruby",
+    "effectNames": "Ignited",
+    "effects": "20/30/40/50% of damage is converted to Fire. Damage scales from INT or base weapon stat, whichever is higher.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "3",
+    "gemImage": "",
+    "typeOfGem": "Topaz",
+    "effectNames": "Electrified",
+    "effects": "20/30/40/50% of damage is converted to Lightning. Damage scales from INT or base weapon stat, whichever is higher.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "4",
+    "gemImage": "",
+    "typeOfGem": "Amber",
+    "effectNames": "Arboreal",
+    "effects": "20/30/40/50% of damage is converted to Nature. Damage scales from FOC or base weapon stat, whichever is higher.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "5",
+    "gemImage": "",
+    "typeOfGem": "Amethyst",
+    "effectNames": "Abyssal",
+    "effects": "20/30/40/50% of damage is converted to Void. Damage scales from INT or base weapon stat, whichever is higher.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "6",
+    "gemImage": "",
+    "typeOfGem": "Sapphire",
+    "effectNames": "Empowered",
+    "effects": "20/30/40/50% of damage is converted to Arcane. Damage scales from INT or base weapon stat, whichever is higher.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "7",
+    "gemImage": "",
+    "typeOfGem": "Jasper",
+    "effectNames": "Retaliate",
+    "effects": "+6/9/12/15% damage after receiving 3 hits.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "8",
+    "gemImage": "",
+    "typeOfGem": "Moonstone",
+    "effectNames": "Exhilarate",
+    "effects": "+12/16/20/24% damage when player is below 30% health.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "9",
+    "gemImage": "",
+    "typeOfGem": "Emerald",
+    "effectNames": "Opportunist",
+    "effects": "+8/12/16/20% damage against targets below 30% health.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "10",
+    "gemImage": "",
+    "typeOfGem": "Onyx",
+    "effectNames": "Brash",
+    "effects": "+15/20/25/30% damage against targets with full health.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "11",
+    "gemImage": "",
+    "typeOfGem": "Opal",
+    "effectNames": "Gambit",
+    "effects": "+6/9/12/15% damage while your stamina is not full.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "12",
+    "gemImage": "",
+    "typeOfGem": "Diamond",
+    "effectNames": "Rally",
+    "effects": "+6/9/12/15% damage and outgoing healing while at full health.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "13",
+    "gemImage": "",
+    "typeOfGem": "Malachite",
+    "effectNames": "Cruel",
+    "effects": "+6/8/10/12% damage against Crowd Controlled targets.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "14",
+    "gemImage": "",
+    "typeOfGem": "Carnelian",
+    "effectNames": "Taunting",
+    "effects": "You generate +100/200/250/300% more threat.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "15",
+    "gemImage": "",
+    "typeOfGem": "typeOfGem",
+    "effectNames": "effectNames(armor)",
+    "effects": "effects(armor)",
+    "chineseEffects": ""
+  },
+  {
+    "id": "16",
+    "gemImage": "",
+    "typeOfGem": "Aquamarine",
+    "effectNames": "Ice Ward",
+    "effects": "+2/2.5/3/3.8% Ice Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "17",
+    "gemImage": "",
+    "typeOfGem": "Ruby",
+    "effectNames": "Fire Ward",
+    "effects": "+2/2.5/3/3.8% Fire Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "18",
+    "gemImage": "",
+    "typeOfGem": "Topaz",
+    "effectNames": "Lightning Ward",
+    "effects": "+2/2.5/3/3.8% Lightning Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "19",
+    "gemImage": "",
+    "typeOfGem": "Amber",
+    "effectNames": "Nature Ward",
+    "effects": "+2/2.5/3/3.8% Nature Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "20",
+    "gemImage": "",
+    "typeOfGem": "Amethyst",
+    "effectNames": "Void Ward",
+    "effects": "+2.5/3.5/5/6% Void Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "21",
+    "gemImage": "",
+    "typeOfGem": "Sapphire",
+    "effectNames": "Arcane Ward",
+    "effects": "+2/2.5/3/3.8% Arcane Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "22",
+    "gemImage": "",
+    "typeOfGem": "Jasper",
+    "effectNames": "Strike Ward",
+    "effects": "+2/2.5/3/3.8% Strike Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "23",
+    "gemImage": "",
+    "typeOfGem": "Moonstone",
+    "effectNames": "Slash Ward",
+    "effects": "+2/2.5/3/3.8% Slash Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "24",
+    "gemImage": "",
+    "typeOfGem": "Emerald",
+    "effectNames": "Thrust Ward",
+    "effects": "+2/2.5/3/3.8% Thrust Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "25",
+    "gemImage": "",
+    "typeOfGem": "Onyx",
+    "effectNames": "Physical Ward",
+    "effects": "+1/1.5/2/2.5% Physical Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "26",
+    "gemImage": "",
+    "typeOfGem": "Opal",
+    "effectNames": "Elemental Ward",
+    "effects": "+1/1.5/2/2.5% Elemental Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "27",
+    "gemImage": "",
+    "typeOfGem": "Diamond",
+    "effectNames": "Wilderness Ward",
+    "effects": "+0.75/1.1/1.5/1.9% Physical Damage Absorption and +0.25/0.38/0.5/0.63% Elemental Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "28",
+    "gemImage": "",
+    "typeOfGem": "Malachite",
+    "effectNames": "Spectral Ward",
+    "effects": "+0.75/1.1/1.5/1.9% Elemental Damage Absorption and +0.25/0.38/0.5/0.63% Physical Damage Absorption.",
+    "chineseEffects": ""
+  },
+  {
+    "id": "29",
+    "gemImage": "",
+    "typeOfGem": "Carnelian",
+    "effectNames": "Calming",
+    "effects": "You generate -4/6/8/10% less threat.",
+    "chineseEffects": ""
+  }
+]

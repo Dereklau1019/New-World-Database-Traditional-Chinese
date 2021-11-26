@@ -1,0 +1,4133 @@
+[
+    {
+        "FIELD1": "",
+        "Name": "Poison Shot",
+        "ChineseDescription": "",
+        "Description": "Shoot a poison arrow that deals 50% weapon damage. On hit or land, this arrow creates 3m radius poison cloud that lasts 6s. Foes entering the cloud are poisoned and take 10% weapon damage per second for 20s. This ability cannot headshot.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Infected Arrows",
+        "ChineseDescription": "",
+        "Description": "Poison Shot's poison now does 12% weapon damage per second for 20s.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Direct Hit",
+        "ChineseDescription": "",
+        "Description": "Direct hits against targets are more powerful and now deal 150% weapon damage.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Evade Shot",
+        "ChineseDescription": "",
+        "Description": "Leap back 5m and shoot an arrow dealing 125% weapon damage.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Evasive Knockback",
+        "ChineseDescription": "",
+        "Description": "Evade Shot knocks your target back 2m.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Go the Distance",
+        "ChineseDescription": "",
+        "Description": "Evade Shot grants you a 15% haste for 5s. (Haste increases movement speed.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Rain of Arrows",
+        "ChineseDescription": "",
+        "Description": "Shoot a barrage of arrows that covers a 3m radius area and deals 150% weapon damage. This ability cannot headshot.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Barbed Arrows",
+        "ChineseDescription": "",
+        "Description": "Rain of Arrows causes bleed, dealing 85% weapon damage over 12s.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hooked Arrows",
+        "ChineseDescription": "",
+        "Description": "Rain of Arrows causes a 15% slow for 4s. (Slow reduces target's movement speed.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Evasive Tactics",
+        "ChineseDescription": "",
+        "Description": "Deal 20% more damage for 5s after dodging.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Catch Me If You Can",
+        "ChineseDescription": "",
+        "Description": "If surrounded by 3 or more foes within 3m of you, gain 20% haste. (Haste increases movement speed.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Closing In",
+        "ChineseDescription": "",
+        "Description": "Hitting a foe below 50% health reduces all bow ability cooldowns by 5%.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Impale",
+        "ChineseDescription": "",
+        "Description": "If you hit a foe with 100% health, inflict a 10% slow for 2s. (Slow reduces target's movement speed.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hunter's Insight",
+        "ChineseDescription": "",
+        "Description": "Hitting a foe with a debuff grants 5 stamina.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Dodge and Weave",
+        "ChineseDescription": "",
+        "Description": "After you dodge, gain 10% haste for 2s. (Haste increases movement speed.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Archer's Speed",
+        "ChineseDescription": "",
+        "Description": "Gain 10% haste for 5s when you swap to your bow. (Haste increases movement speed.) (Cooldown 10s.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mark",
+        "ChineseDescription": "",
+        "Description": "Deal 10% more damage to foes suffering from a debuff.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Battle Precision",
+        "ChineseDescription": "",
+        "Description": "Debuff and damage over time durations last 20% longer.",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Knee Shot",
+        "ChineseDescription": "",
+        "Description": "Leg shots cause 10% slow for 2s. (Slow reduces target's movement speed.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Skirmisher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Rapid Shot",
+        "ChineseDescription": "",
+        "Description": "Shoot 3 consecutive arrows. The first two deal 100% weapon damage each. The last shot causes a knockback and deals 125% weapon damage.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Rapid Accuracy",
+        "ChineseDescription": "",
+        "Description": "If all 3 arrows hit the same target, Rapid Shot’s cooldown is reduced by 50%.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Final Blow",
+        "ChineseDescription": "",
+        "Description": "The third arrow of Rapid Shot deals 25% extra damage.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Penetrating Shot",
+        "ChineseDescription": "",
+        "Description": "Shoot an arrow that deals 150% weapon damage and passes through targets. This attack has a range of 100m.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Blood Soaked Arrow",
+        "ChineseDescription": "",
+        "Description": "Penetrating Shot deals 10% increased damage after each hit. (Max 50% damage.)",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deep Strike",
+        "ChineseDescription": "",
+        "Description": "Penetrating Shot deals 20% more damage to targets 20m or more away.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Splinter Shot",
+        "ChineseDescription": "",
+        "Description": "Shoot an arrow that splits into 3 arrows after traveling 10m. Each arrow deals 50% weapon damage. This ability cannot headshot.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Scatter Shot",
+        "ChineseDescription": "",
+        "Description": "Splinter Shot splits into 5 arrows.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Calculated",
+        "ChineseDescription": "",
+        "Description": "Each arrow that hits reduces the cooldown of this ability by 10%.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Long Range",
+        "ChineseDescription": "",
+        "Description": "Deal 20% more damage to foes at least 10m away.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Aim True",
+        "ChineseDescription": "",
+        "Description": "Heavy attack arrows fly faster and deal 30% more damage.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unbreakable Focus",
+        "ChineseDescription": "",
+        "Description": "Receive 10% less damage while aiming.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Finishing Shot",
+        "ChineseDescription": "",
+        "Description": "Deal 20% more damage to targets below 50% health.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Opening Strike",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks deal 20% increased damage to foes with 100% health.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Surprise Attack",
+        "ChineseDescription": "",
+        "Description": "Deal 20% extra damage if you haven't damaged a foe in the last 10s.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Arrow Range",
+        "ChineseDescription": "",
+        "Description": "Increases the distance that arrows travel before being affected by gravity by 100%.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hawkeye",
+        "ChineseDescription": "",
+        "Description": "When you land a headshot, heal yourself for 10% of damage done.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Bullseye",
+        "ChineseDescription": "",
+        "Description": "Increases critical chance of bow shots by 10%.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Concussion",
+        "ChineseDescription": "",
+        "Description": "When you land a headshot, deal 20% more damage and have a 50% chance to get your arrow back.",
+        "Weapon": "Bow",
+        "Skill Tree": "Hunter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Pillar of Fire",
+        "ChineseDescription": "",
+        "Description": "Invoke a burst of flames at the target area that deals 170% weapon damage. Costs 15 Mana.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "First Strike",
+        "ChineseDescription": "",
+        "Description": "Pillar of Fire deals 40% more damage to foes at full health.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Arson's Advantage",
+        "ChineseDescription": "",
+        "Description": "Gain 10% of your max mana per enemy hit by Pillar of Fire.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Meteor Shower",
+        "ChineseDescription": "",
+        "Description": "Call down a rain of meteors for 6 seconds in the target area, dealing 34% weapon damage on initial impact and an additional 20% weapon damage per second while targets remain in the area. Costs 5 Mana Per Second (30 total mana at full cast).",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Immolation",
+        "ChineseDescription": "",
+        "Description": "The initial hit of Meteor Shower gives you 1% of your max mana for each target hit.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fiery Determination",
+        "ChineseDescription": "",
+        "Description": "Adds grit while casting Meteor Shower. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Judgment of Helios",
+        "ChineseDescription": "",
+        "Description": "All hits after the initial impact now deal 25% weapon damage.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fireball",
+        "ChineseDescription": "",
+        "Description": "Shoot a heavy fireball that deals 140% weapon damage on impact and leaves behind a 3m burning field that lasts 6s. The burning field deals 10% weapon damage each second. This ability cannot crit. Costs 25 Mana.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Scorched Earth",
+        "ChineseDescription": "",
+        "Description": "Fireball's burning field lasts for 9s.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Catch",
+        "ChineseDescription": "",
+        "Description": "Direct hits with Fireball give you 10% of your max mana and reduce your fire staff ability cooldowns by 7%.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Spell Focus",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks restore 5% of your max mana on hit.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fiery Restoration",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks reduce fire staff cooldowns by 10% on hit.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Clear Mind",
+        "ChineseDescription": "",
+        "Description": "While holding a fire staff and above 50% mana, gain 5% empower. (Empower increases damage.)",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Flare",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks no longer consume mana.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Singe",
+        "ChineseDescription": "",
+        "Description": "Light attacks inflict burning on foes, dealing 3% weapon damage each second for 6s.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Spellslinger",
+        "ChineseDescription": "",
+        "Description": "Your fire staff abilities gain an extra 10% chance to critical strike.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Clear Casting",
+        "ChineseDescription": "",
+        "Description": "If you haven't taken damage in the last 3s, deal 5% more damage.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Prophet of a Fire God",
+        "ChineseDescription": "",
+        "Description": "While holding a fire staff, your critical strike damage is increased by 15%.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Runes of Helios",
+        "ChineseDescription": "",
+        "Description": "Using a fire staff ability places a 2m rune on the ground that increases your damage by 25% while standing in the rune. The rune lasts for 7s. (Cooldown 30s).",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Fire Mage",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Incinerate",
+        "ChineseDescription": "",
+        "Description": "Cause a fiery explosion around yourself that deals 130% weapon damage and pushes back all enemies 3m. Inflicts burning on struck foes, dealing 3% weapon damage each second for 6s. Costs 22 Mana.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Scorched",
+        "ChineseDescription": "",
+        "Description": "Each hit of Incinerate causes an additional stack of burning.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Cauterize Wounds",
+        "ChineseDescription": "",
+        "Description": "Restore 20% of Incinerate damage dealt as health.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Flame out!",
+        "ChineseDescription": "",
+        "Description": "Incinerate hits twice.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Flamethrower",
+        "ChineseDescription": "",
+        "Description": "Create a 4 meter jet of flame from the staff dealing 50% weapon damage every half second. Each hit inflicts burning, dealing 3% weapon damage each second for 6s. Costs 5 Mana per second.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fire's Reach",
+        "ChineseDescription": "",
+        "Description": "Increase the range of Flamethrower by 50%.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Infernal Flames",
+        "ChineseDescription": "",
+        "Description": "Increase the base damage of Flamethrower by 25%.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Pyro Dancer",
+        "ChineseDescription": "",
+        "Description": "Flamethrower has no cooldown.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Burn Out",
+        "ChineseDescription": "",
+        "Description": "Dash forward up to 11 meters through targets dealing 129% weapon damage on hit. Passing through a target will inflict burning that deals 10% weapon damage each second for 8s. Costs 30 Mana.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "All In",
+        "ChineseDescription": "",
+        "Description": "Fire staff cooldowns are reduced by 5% for each foe hit by Burn Out.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Heat it Up!",
+        "ChineseDescription": "",
+        "Description": "Burn Out goes 50% further.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Pyromania",
+        "ChineseDescription": "",
+        "Description": "While holding a fire staff and below 50% max health, deal 15% increased damage.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Heat Up",
+        "ChineseDescription": "",
+        "Description": "When you block a melee attack, restore 5% of your max mana.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Let it Burn",
+        "ChineseDescription": "",
+        "Description": "Whenever burn deals damage, gain 10% fortify for 2s. (Fortify reduces incoming damage.)",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Kindle",
+        "ChineseDescription": "",
+        "Description": "Burning lasts 20% longer.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Watch it Burn",
+        "ChineseDescription": "",
+        "Description": "Critical hits with fire staff abilities inflict burning, dealing 3% weapon damage each second for 6s.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Trial by Fire",
+        "ChineseDescription": "",
+        "Description": "When you are struck, create a field of fire around you dealing 5% weapon damage to all to nearby enemies in a 4m radius. Activates when struck in battle and lasts for 10 seconds. (Cooldown 120s.)",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Combat Speed",
+        "ChineseDescription": "",
+        "Description": "When you activate a fire staff ability gain 10% haste for 5s. (Haste increases movement speed.) (Cooldown 10s.)",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Reheat",
+        "ChineseDescription": "",
+        "Description": "After 4s without activating a fire staff ability, your mana regen is increased by 400%.",
+        "Weapon": "Fire Staff",
+        "Skill Tree": "Pyromancer",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Charge",
+        "ChineseDescription": "",
+        "Description": "Charge 10m and deal 120% weapon damage when you reach a target. Press LMB to stop charging and attack early. This ability has grit. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Frenzied Momentum",
+        "ChineseDescription": "",
+        "Description": "Charge now deals 120 - 140% weapon damage based on how far you traveled.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unpredictable Strike",
+        "ChineseDescription": "",
+        "Description": "During Charge you may press RMB to execute a swing attack, dealing 140 - 165% weapon damage based on how far you traveled.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Reap",
+        "ChineseDescription": "",
+        "Description": "Extend your axe 5m, pulling foes to you and dealing 110% weapon damage. Taunt Gem Compatible: If you have a Carnelian gem equiped in your great axe, this ability inflicts taunt for 4s when it hits. (Taunt causes monsters to focus only on you.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "The Collector",
+        "ChineseDescription": "",
+        "Description": "Reap range is now 8m.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hunger",
+        "ChineseDescription": "",
+        "Description": "Heal yourself for 30% of damage done by Reap.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fatal Attraction",
+        "ChineseDescription": "",
+        "Description": "After pulling, perform a spin attack dealing 115% weapon damage.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Execute",
+        "ChineseDescription": "",
+        "Description": "A powerful overhead attack dealing 200% weapon damage. Deals 300% weapon damage to foes below 50% health.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unstoppable Greed",
+        "ChineseDescription": "",
+        "Description": "Execute gains grit during its attack. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Executioner",
+        "ChineseDescription": "",
+        "Description": "Execute has a 100% critical chance against foes below 30% health.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Greed",
+        "ChineseDescription": "",
+        "Description": "Light attacks with your great axe give you a stack of 5% damage for 5s. (Max 3 stacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Executioner's Speed",
+        "ChineseDescription": "",
+        "Description": "Hitting 2+ targets with a great axe light attack grants 20% haste for 3s. (Haste increases movement speed.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Critical Gains",
+        "ChineseDescription": "",
+        "Description": "When you critical hit with a great axe, heal yourself for 10% of the damage done.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Death's Embrace",
+        "ChineseDescription": "",
+        "Description": "Increase armor penetration of great axe attacks by 10% against foes below 50% health.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Frustration",
+        "ChineseDescription": "",
+        "Description": "Whenever your attacks are blocked, gain a stack of 15% damage for 10s. (Max 1 stacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Keen Edge",
+        "ChineseDescription": "",
+        "Description": "Critical damage increased by 10%.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Critical Condition",
+        "ChineseDescription": "",
+        "Description": "Great axe attacks against foes below 30% health have 15% increased critical chance.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Feed",
+        "ChineseDescription": "",
+        "Description": "Great axe attacks against foes below 30% health heal you for 10% of damage done.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Blood Lust",
+        "ChineseDescription": "",
+        "Description": "You move 30% faster and deal 15% more damage when looking at a foe within 1.3m.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Reaper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Whirlwind",
+        "ChineseDescription": "",
+        "Description": "Spin and attack all nearby foes, dealing 50% weapon damage. If you hit a foe, spin again. (Max 4 spins.) You can move while spinning. This attack cannot backstab. This attack has Grit. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Gusting Winds",
+        "ChineseDescription": "",
+        "Description": "Whirlwind's maximum number of rotations is increased to 7.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unending Winds",
+        "ChineseDescription": "",
+        "Description": "Whirlwind's movement speed is increased by 50%.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Surrounded",
+        "ChineseDescription": "",
+        "Description": "If you have 3 or more foes around you, deal 30% more damage.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Maelstrom",
+        "ChineseDescription": "",
+        "Description": "Perform a fast, spinning attack that pulls targets closer to you and deals 110% weapon damage.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Storm's Reach",
+        "ChineseDescription": "",
+        "Description": "Extends Maelstrom's pull range by 50%.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Absorb",
+        "ChineseDescription": "",
+        "Description": "Consumes all projectiles while Maelstrom is active.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "No Reprieve",
+        "ChineseDescription": "",
+        "Description": "Maelstrom does an extra spin attack, pulling in foes and dealing 110% weapon damage.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Gravity Well",
+        "ChineseDescription": "",
+        "Description": "An upward swing dealing 99% weapon damage and projecting a powerful tear in reality that creates a vortex. The vortex pulls foes within 10m to its center for 3s. The collapsing vortex ends with a damaging burst dealing 125% weapon damage.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Crowded Well",
+        "ChineseDescription": "",
+        "Description": "Increase burst damage by 10% for each foe caught in the vortex.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unyielding",
+        "ChineseDescription": "",
+        "Description": "Allies gain 10% Fortify while standing in your well. (Fortify reduces incoming damage.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mauler's Resolve",
+        "ChineseDescription": "",
+        "Description": "If you get hit while holding a great axe and are below 50% health, gain 40 stamina. (20s Cooldown.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Heavy Pull",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks with a great axe pull foes closer to you.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Enduring Strike",
+        "ChineseDescription": "",
+        "Description": "Adds grit to great axe heavy attacks, and grants 20% damage reduction during the heavy attack. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Gravity",
+        "ChineseDescription": "",
+        "Description": "After you cause a pull, your foe is rooted for 0.25s.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Revenge",
+        "ChineseDescription": "",
+        "Description": "When you block an attack with a great axe, gain 5% damage for 5s. (Max 3 stacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Center of Attention",
+        "ChineseDescription": "",
+        "Description": "While holding a great axe, gain 10% damage when 3 or more foes are within 4m.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Crowded Protection",
+        "ChineseDescription": "",
+        "Description": "While holding a great axe, gain 10% damage absorption when 3 or more foes are within 4m.",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mauler's Fury",
+        "ChineseDescription": "",
+        "Description": "Great axe attacks grant a stacking 3% damage increase for 3s. (Max 10 stacks.)",
+        "Weapon": "Great Axe",
+        "Skill Tree": "Mauler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Berserk",
+        "ChineseDescription": "",
+        "Description": "Enter a berserk mode that increases all attack damage by 20% for 12s. Cooldown for this ability will not start until the mode ends. Taunt Gem Compatible: If you have a Carnelian gem equipped in your hatchet, this ability inflicts taunt for 8s to all enemies within 8m. (Taunt causes monsters to focus only on you.)",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "On The Hunt",
+        "ChineseDescription": "",
+        "Description": "While Berserk is active, your movement speed is increased by 20%.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Berserking Refresh",
+        "ChineseDescription": "",
+        "Description": "While Berserk is active, gain a portion of your health back every 4s, up to 30% of your maximum health.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Berserking Purge",
+        "ChineseDescription": "",
+        "Description": "Remove all stuns, slows, and roots from yourself when you activate Berserk.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Uninterruptible Berserk",
+        "ChineseDescription": "",
+        "Description": "While Berserk is active, your attacks are uninterruptible and you can't be staggered.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Feral Rush",
+        "ChineseDescription": "",
+        "Description": "Leap forward and strike twice. The first hit deals 115% weapon damage and the second deals 130% weapon damage.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Dispatch",
+        "ChineseDescription": "",
+        "Description": "If target is below 30% health, Feral Rush deals 20% more damage.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Crippling Strikes",
+        "ChineseDescription": "",
+        "Description": "If Feral Rush hits a target in the back, it inflicts root, immobilizing the target for 2s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Raging Torrent",
+        "ChineseDescription": "",
+        "Description": "Perform 4 fast attacks, each dealing 90% weapon damage.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Aggressive Approach",
+        "ChineseDescription": "",
+        "Description": "Hitting a target with Raging Torrent grants haste, increasing movement speed by 20% for 6s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Final Blow",
+        "ChineseDescription": "",
+        "Description": "Press light attack at the end of Raging Torrent to perform a final attack that deals 120% weapon damage.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Enraged Strikes",
+        "ChineseDescription": "",
+        "Description": "Light and heavy attacks deal 20% more damage to targets below 30% health.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Accumulated Power",
+        "ChineseDescription": "",
+        "Description": "After 3 successful light attacks against the same target, gain empower, granting a 30% damage increase for 3s or until the next attack.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Relentless Fury",
+        "ChineseDescription": "",
+        "Description": "After a successful heavy attack, gain empower, granting a 30% damage increase for the next 4 attacks within 3s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Desperate Refresh",
+        "ChineseDescription": "",
+        "Description": "All cooldowns are reduced by 2% when hitting an enemy with an attack while your health is below 30%.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Against All Odds",
+        "ChineseDescription": "",
+        "Description": "Increase base damage by 10% for every enemy within 5m.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fortifying Strikes",
+        "ChineseDescription": "",
+        "Description": "Hitting the same target with 3 consecutive light attacks grants fortify, increasing damage absorption by 15% for 3s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Frenzied Purge",
+        "ChineseDescription": "",
+        "Description": "Remove all bleed, burn, and poison effects from yourself if you hit an enemy while your health is below 30%. (Cooldown 60s.)",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Defy Death",
+        "ChineseDescription": "",
+        "Description": "When you receive lethal damage, avoid death. You are reduced to 50 health and gain immortality for 3s. (Cooldown 75s.)",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Berserker",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Rending Throw",
+        "ChineseDescription": "",
+        "Description": "Throw a hatchet up to 25m, dealing 110% weapon damage and applying rend, reducing target's damage absorption by 10% for 10s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Targeted Impact",
+        "ChineseDescription": "",
+        "Description": "Rend effectiveness increased to 15% if the target is further than 8m away.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Opportunistic",
+        "ChineseDescription": "",
+        "Description": "If Rending Throw hits a target with an active debuff, it deals an additional 20% damage.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Second Wind",
+        "ChineseDescription": "",
+        "Description": "If Rending Throw hits a target with an active debuff, its cooldown is reduced by 20%.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Social Distancing",
+        "ChineseDescription": "",
+        "Description": "Throw a hatchet up to 25m forward and dodge backwards. The hatchet deals 130% weapon damage and slows targets by 15% for 3s. (Slow reduces target's movement speed.)",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Quick Power",
+        "ChineseDescription": "",
+        "Description": "If Social Distancing his a target with an active debuff, your movement speed is increased by 30% for 3s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Stay Back",
+        "ChineseDescription": "",
+        "Description": "Social Distancing's slow effectiveness is increased to 25% and its duration is increased to 4s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Infected Throw",
+        "ChineseDescription": "",
+        "Description": "Throw a hatchet that deals 150% weapon damage. This attack inflicts disease and weaken on your target for 10s. (Disease reduces target's healing efficiency by 30%.) (Weaken reduces target's damage by 10%.)",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mortal Power",
+        "ChineseDescription": "",
+        "Description": "Increased the duration of disease and weaken to 15s on targets below 30% health.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Aerial Transmission",
+        "ChineseDescription": "",
+        "Description": "Creates a 3m radius disease cloud on impact that lingers in place for 6s.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Aimed Throw",
+        "ChineseDescription": "",
+        "Description": "Replaces block with an aimed throw that deals 95% weapon damage. Hold block to enter aimed stance and press light attack to throw. Costs 20 stamina per throw.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Critical Throw",
+        "ChineseDescription": "",
+        "Description": "Thrown hatchets are now capable of triggering headshots or random critical hits. Also increases critical hit chance of all attacks by 5%.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Exploitation",
+        "ChineseDescription": "",
+        "Description": "All attacks deal 15% additional damage to targets with an active debuff.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "On Fire",
+        "ChineseDescription": "",
+        "Description": "Every third thrown hatchet hit is a guaranteed critical hit.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Throws",
+        "ChineseDescription": "",
+        "Description": "Thrown hatchets that hit targets with an active debuff reduce all hatchet ability cooldowns by 5%.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Rejuvenating Crits",
+        "ChineseDescription": "",
+        "Description": "Critical hits with light attacks and aimed throws regenerate 10 stamina.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Boot and Rally",
+        "ChineseDescription": "",
+        "Description": "Light attacks and aimed throws restore 10 stamina when hitting targets with an active debuff.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Adrenaline Rush",
+        "ChineseDescription": "",
+        "Description": "Dodging within 2s of triggering an ability consumes 25% less stamina.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Persistent Hinderance",
+        "ChineseDescription": "",
+        "Description": "Hitting a target with a thrown hatchet extends the duration of all hatchet debuffs on that target by 30%.",
+        "Weapon": "Hatchet",
+        "Skill Tree": "Throwing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Ice Spikes",
+        "ChineseDescription": "",
+        "Description": "Creates a trail of spikes that start from the player and go out in a straight line for 8m dealing 56% weapon damage. The final spike is a Mighty Spike that will deal 157% weapon damage and apply pushback. Pressing light attack before the path fully forms will spawn the Mighty Spike early. Cost 15 Mana.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Spikes",
+        "ChineseDescription": "",
+        "Description": "Cooldown for this ability reduced by 10% if an enemy is hit by the Mighty Spike.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Empowered Spikes",
+        "ChineseDescription": "",
+        "Description": "Mighty Spike damage increased by 20% when hitting an enemy below 30% health.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deadly Path",
+        "ChineseDescription": "",
+        "Description": "Increases damage by 10% and adds stagger to the path of spikes. Does not increase Mighty Spike damage.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Spiky Reach",
+        "ChineseDescription": "",
+        "Description": "Ice shards fire from the sides of the Mighty Spike to hit a wider area. Each shard has a 6m range and deals 118% weapon damage.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Ice Storm",
+        "ChineseDescription": "",
+        "Description": "Create a 5m radius storm at the target area that deals 17% weapon damage every 0.33s for 5s. The storm also creates a frosted area that slows enemies in it by 25%. (Slow reduces target's movement speed.) Cost 25 Mana.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Weakening Gust",
+        "ChineseDescription": "",
+        "Description": "Incoming damage is increased by 10% for 3s to enemies in Ice Storm while they are below 50% health.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Storm Summoner",
+        "ChineseDescription": "",
+        "Description": "Ice Storm mana cost is decreased by 80% while at full mana.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Punishing Storm",
+        "ChineseDescription": "",
+        "Description": "Increases damage by 10% for each enemy in Ice Storm.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Wind Chill",
+        "ChineseDescription": "",
+        "Description": "Blasts a column of freezing winds forward that pushes back enemies 5m and deals 20% weapon damage each hit. Wind Chill has a total range of 7m with the farthest 2m increasing damage 20% without pushing enemies. Player is able to move during the attack. Cost 20 Mana.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Enduring Chill",
+        "ChineseDescription": "",
+        "Description": "Increase duration of Wind Chill by 1s.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Chilling Blast",
+        "ChineseDescription": "",
+        "Description": "Increase the damage of the last 2m of the Wind Chill range by 25%.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Cold Reach",
+        "ChineseDescription": "",
+        "Description": "Increase damage of light and heavy attacks by 15% for targets farther than 15m.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Critical Rejuvenation",
+        "ChineseDescription": "",
+        "Description": "Gain 15 mana whenever you critically hit a target.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Energized Critical",
+        "ChineseDescription": "",
+        "Description": "Increase critical damage of ice gauntlet abilities by 10% while stamina is full.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Gathering Storm",
+        "ChineseDescription": "",
+        "Description": "Gain 15 mana whenever you hit with 3 consecutive light attacks.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Critical Frost",
+        "ChineseDescription": "",
+        "Description": "Increase critical chance by 15% when hitting an enemy in a frosted area or when hitting an enemy with frostbite.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Heavy Freeze",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks will root a target if they standing in Ice Storm or have frostbite. Root lasts for 1 second and has a 5 second cooldown.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Ultimate Chill",
+        "ChineseDescription": "",
+        "Description": "Ice gauntlet abilities chill targets, increasing ice damage dealt to the target by 25% for 3s.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Ice Tempest",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Ice Pylon",
+        "ChineseDescription": "",
+        "Description": "Place a pylon that fires ice projectiles at enemies within 20m. Projectiles deal 50% weapon damage if they hit. Ice Pylon creates a 1m radius frosted area around itself and lasts for 15s unless it is destroyed. Cost 15 Mana.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Greater Pylon",
+        "ChineseDescription": "",
+        "Description": "Increases damage of Ice Pylon by 10% against slowed targets.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Pylon Regen",
+        "ChineseDescription": "",
+        "Description": "Ice Pylon regenerates to full health 5s after last damage taken.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Pylon Dodge",
+        "ChineseDescription": "",
+        "Description": "Dodging with full stamina increases Ice Pylon rate of fire for 3s.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Pylon Refresh",
+        "ChineseDescription": "",
+        "Description": "A successful hit from the Ice Pylon extends its lifetime by 1s. (Maximum 45s.)",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Ice Shower",
+        "ChineseDescription": "",
+        "Description": "Summon a shower of ice that creates a frosted area approximately 1m by 5m that lasts for 4s. Enemies that enter the Ice Shower will be stricken with a powerful frostbite. Frostbite roots for 1s, blocks sprinting and dodging, slows movement speed by 50%, and will remain on target for 3s after exiting the Ice Shower. Cost 25 Mana.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Enduring Shower",
+        "ChineseDescription": "",
+        "Description": "Increase Ice Shower duration to 7s.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Quick Shower",
+        "ChineseDescription": "",
+        "Description": "Any ally, including self, will get a 25% movement speed boost for 2s when entering Ice Shower.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Frigid Showers",
+        "ChineseDescription": "",
+        "Description": "Frostbite applies rend to target, reducing their defense by 10%.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Entombed",
+        "ChineseDescription": "",
+        "Description": "Entomb yourself in ice to become invulnerable and greatly increase mana regeneration. The tomb lasts for 10s but can be destroyed early. Press block to exit the tomb normally or press light attack to exit while causing a damaging knockback at the cost of 20 mana. Cost 0 Mana.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Strengthened Tomb",
+        "ChineseDescription": "",
+        "Description": "Increase defense by 25% for 3s after breaking out of Entombed.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Cleansing Tomb",
+        "ChineseDescription": "",
+        "Description": "Cleanse all debuffs when Entombed activates.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Blocking Stamina",
+        "ChineseDescription": "",
+        "Description": "Blocking an attack with the ice gauntlet will convert mana to stamina. Converts 3 mana to 15 stamina.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Quick Frost",
+        "ChineseDescription": "",
+        "Description": "Increase movement speed by 10% in a frosted area.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Empowered Frost",
+        "ChineseDescription": "",
+        "Description": "Gain 3 mana for each spell cast while in a frosted area.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Frozen Touch",
+        "ChineseDescription": "",
+        "Description": "Slow enemies by 25% for 2s when they hit you with a melee attack while you have 100% health. (Slow reduces target's movement speed.)",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Frost",
+        "ChineseDescription": "",
+        "Description": "Reduce the cooldown of all ice gauntlet abilities by 20% when casting an ability in a frosted area.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Defiant Freeze",
+        "ChineseDescription": "",
+        "Description": "Casting an ice gauntlet ability creates an ice hardened layer, granting 20% fortify for 2s. (Fortify reduces incoming damage.)",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Ultimate Frost",
+        "ChineseDescription": "",
+        "Description": "Doubles Ice Pylon's health and extends Ice Pylon's frosted area radius to 5m. Standing in this frosted area doubles Quick Frost and Empowered Frost bonuses.",
+        "Weapon": "Ice Gauntlet",
+        "Skill Tree": "Builder",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Divine Embrace",
+        "ChineseDescription": "",
+        "Description": "Heal target for 120% weapon damage. Costs 25 Mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Privilege",
+        "ChineseDescription": "",
+        "Description": "Divine Embrace costs 20 Mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shared Struggle",
+        "ChineseDescription": "",
+        "Description": "If your target is below 50% health, heal one additional ally within 8m for the same amount.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Rebound",
+        "ChineseDescription": "",
+        "Description": "If the ally healed by Shared Struggle is below 50% health, heal another ally within 8m of that ally.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sacred Ground",
+        "ChineseDescription": "",
+        "Description": "Create an area on the ground with a 3m radius that lasts for 12s. Allies in the area are healed for 16% weapon damage every second. Costs 15 Mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Holy Ground",
+        "ChineseDescription": "",
+        "Description": "Regenerate stamina and mana 50% faster while in Sacred Ground.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Blessed",
+        "ChineseDescription": "",
+        "Description": "While allies are in Sacred Ground, they are healed for 50% more from all healing.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Splash of Light",
+        "ChineseDescription": "",
+        "Description": "You and all group members within 100m are healed for 60% weapon damage. Costs 15 Mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shared Recovery",
+        "ChineseDescription": "",
+        "Description": "For each ally healed that is below 50% health, you gain 5% of your max mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Purify",
+        "ChineseDescription": "",
+        "Description": "Splash of Light also removes 1 debuff.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Absolved",
+        "ChineseDescription": "",
+        "Description": "Life staff's light and heavy attacks no longer consume mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mending Touch",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks now remove 1 debuff when passing through an ally.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Blissful Touch",
+        "ChineseDescription": "",
+        "Description": "Light attacks now heal for 16% weapon damage when passing through an ally.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Revitalize",
+        "ChineseDescription": "",
+        "Description": "When you hit with a light attack, reduce life staff ability cooldowns by 5%.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Desperate Speed",
+        "ChineseDescription": "",
+        "Description": "When you heal an ally below 50% health, life staff ability cooldowns are reduced by 10%. (Can only be triggered once every 5s.)",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Enchanted Justice",
+        "ChineseDescription": "",
+        "Description": "When hit in battle, activate a healing aura for you and nearby friends in a 4m radius. The aura heals for 8% weapon damage each second for 6s. (Cooldown 120s.)",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sacred Protection",
+        "ChineseDescription": "",
+        "Description": "While holding a life staff, increase the amount of incoming healing to all friendlies in your group by 5%",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Intensify",
+        "ChineseDescription": "",
+        "Description": "When you hit with a heavy attack, gain a stacking 10% bonus to healing effectiveness for 10s. (Max 3 stacks.)",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Divine Blessing",
+        "ChineseDescription": "",
+        "Description": "When you heal an ally below 50% health, they are healed for 30% more.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Healing",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Orb of Protection",
+        "ChineseDescription": "",
+        "Description": "Shoot out a light projectile that grants 10% fortify for 20s, heals an ally for 10% of weapon damage, and deals 146% weapon damage when it hits an enemy. (Fortify reduces incoming damage.) Costs 16 Mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Protector's Blessing",
+        "ChineseDescription": "",
+        "Description": "If Orb of Protection hits an ally, they gain recovery for 10s. (Recovery heals for 6% weapon damage every second.)",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shared Protection",
+        "ChineseDescription": "",
+        "Description": "If you successfully heal an ally with Orb of Protection, you also gain fortify and recovery.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Aegis",
+        "ChineseDescription": "",
+        "Description": "When this projectile hits, it effects all allies within a 3m radius.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Light's Embrace",
+        "ChineseDescription": "",
+        "Description": "Heal target for 80% weapon damage +30% more for each buff on that target. Costs 18 Mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Inspire",
+        "ChineseDescription": "",
+        "Description": "When you heal a target with Light's Embrace, that target gains 25 stamina.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Connection",
+        "ChineseDescription": "",
+        "Description": "When you heal a target with Lights Embrace, gain 2% of your max mana for each buff your target has.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Magnify",
+        "ChineseDescription": "",
+        "Description": "When you heal a target with Light's Embrace, extend the duration of life staff buffs on that target by 2s.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Beacon",
+        "ChineseDescription": "",
+        "Description": "Shoot out a light projectile that deals 146% weapon damage to enemies, attaches to its target and heals all nearby allies for 16% weapon damage each second for 10s. Costs 16 Mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Infused Light",
+        "ChineseDescription": "",
+        "Description": "Beacon's area of effect is now 50% larger.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Radiance's Blessing",
+        "ChineseDescription": "",
+        "Description": "Beacon lasts 5s longer.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Speed of Light",
+        "ChineseDescription": "",
+        "Description": "When Beacon heals a target it also applies 20% haste for 3s. (Haste increases movement speed.)",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Bend Light",
+        "ChineseDescription": "",
+        "Description": "After a dodge, your heals are 20% more effective for 5s.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Defensive Light",
+        "ChineseDescription": "",
+        "Description": "When you block a melee attack, gain 5% max mana.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Protector's Touch",
+        "ChineseDescription": "",
+        "Description": "Life staff's light and heavy attacks grant 15% fortify for 3s when hitting an enemy. (Fortify reduces incoming damage.)",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Protector's Strength",
+        "ChineseDescription": "",
+        "Description": "If you have a buff heal for 10% more.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Balance",
+        "ChineseDescription": "",
+        "Description": "When you get hit while below 50% health, gain 10% haste for 5s. (Cooldown 20s.)",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Spirits United",
+        "ChineseDescription": "",
+        "Description": "Increases mana regeneration for you and group members by 3%.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Glowing Focus",
+        "ChineseDescription": "",
+        "Description": "Life Staff buffs you grant last 20% longer.",
+        "Weapon": "Life Staff",
+        "Skill Tree": "Protector",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Power Shot",
+        "ChineseDescription": "",
+        "Description": "Overload your musket with gun powder, causing the next shot to deal 150% weapon damage. Does not stack with other overload shots.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Initial Engagement",
+        "ChineseDescription": "",
+        "Description": "When you hit with Power Shot, gain empower, increasing damage by 10% for 5s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "First Blood",
+        "ChineseDescription": "",
+        "Description": "Power Shot deals 10% additional damage to targets with full health.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Bullseye",
+        "ChineseDescription": "",
+        "Description": "Power Shot headshots reduce Power Shot's cooldown by 15%.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Powder Burn",
+        "ChineseDescription": "",
+        "Description": "Overload your musket with gun powder, causing the next shot to deal 110% weapon damage and inflict a burn that deals 20% weapon damage per second for 9s. Does not stack with other overload shots.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Backdraft",
+        "ChineseDescription": "",
+        "Description": "Standard musket shots deal 12% additional damage if they hit a burning target.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Chronic Trauma",
+        "ChineseDescription": "",
+        "Description": "If Powder Burn is a headshot, the burn duration is extended to 13s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shooter's Stance",
+        "ChineseDescription": "",
+        "Description": "Player enters a crouching aim stance to enhance shooting performance. While in this stance, shots deal 100% weapon damage, mobility is reduced to zero and reload time is reduced by 75%. Shooter's Stance ends after 3 shots.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shoot More",
+        "ChineseDescription": "",
+        "Description": "Shots fired before exiting stance increased to 5.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Marksman",
+        "ChineseDescription": "",
+        "Description": "If 3 consecutive shots hit the same target, reduce all other musket cooldowns by 25%.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Critical Reload",
+        "ChineseDescription": "",
+        "Description": "Landing 3 headshots within 5s of each other grants an instant reload.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Called Shot",
+        "ChineseDescription": "",
+        "Description": "Increase musket damage by 5% after aiming down sights for more than 3s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Greater Accuracy",
+        "ChineseDescription": "",
+        "Description": "Accuracy penalty while hipfiring removed.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Empowering Headshot",
+        "ChineseDescription": "",
+        "Description": "On a successful headshot, gain empower, increasing damage dealt by 10% for 5s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Ballistic Advantage",
+        "ChineseDescription": "",
+        "Description": "Removes damage fall off from standard musket shots on targets more than 50m away.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Called Shot Resupply",
+        "ChineseDescription": "",
+        "Description": "Standard attack headshots reduce all musket ability cooldowns by 10%.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hit Your Mark",
+        "ChineseDescription": "",
+        "Description": "Increased headshot and critical hit damage to a target the further the target is away from the player. Maximum increase is 15% at or beyond 100m away. Does not forgo damage fall off.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Heightened Precision",
+        "ChineseDescription": "",
+        "Description": "While aiming, successful hits with a musket grant a stackable 2.5% damage increase. This effect ends when the player stops aiming down sight or after more than 5s passes between shots. (Max 6 stacks.)",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sniper",
+        "ChineseDescription": "",
+        "Description": "Adds an optional 3x zoom view when aiming musket shots. Use mouse wheel up or down to adjust zoom while aiming. Also grants a 15% damage increase to all headshots.",
+        "Weapon": "Musket",
+        "Skill Tree": "Sharpshooter",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Traps",
+        "ChineseDescription": "",
+        "Description": "Deploy a trap that lasts for 20s. When triggered, it causes its target to be rooted, immobilizing them for 3s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Trapped Damage",
+        "ChineseDescription": "",
+        "Description": "Traps apply rend to targets that trigger them, increasing damage taken by 20% for 3s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Scent of Blood",
+        "ChineseDescription": "",
+        "Description": "Dealing damage to a trapped target heals you for 100% of weapon damage dealt.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Double Trap",
+        "ChineseDescription": "",
+        "Description": "Ability to have two active traps.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sticky Bomb",
+        "ChineseDescription": "",
+        "Description": "Throw a short range bomb that sticks to anything it makes contact with. Detonation will occur 3 seconds after impact dealing 235% weapon damage to all targets within 3m.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unflinching Walk",
+        "ChineseDescription": "",
+        "Description": "Sticky Bomb grants the player 40 stamina when it deals damage with an explosion.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sticky Slow",
+        "ChineseDescription": "",
+        "Description": "Direct hits with the Sticky Bomb cause the target to be slowed by 15% for 3s. (Slow reduces target's movement speed.)",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Stopping Power",
+        "ChineseDescription": "",
+        "Description": "Overload your musket with gun powder, causing the next shot to deal 120% weapon damage, staggering the target and knocking them back 3m. Does not stack with other overload shots.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Lasting Impression",
+        "ChineseDescription": "",
+        "Description": "Targets hit with Stopping Power are exhausted, reducing their stamina regeneration speed by 10% for 8s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Supplementary Repulsion",
+        "ChineseDescription": "",
+        "Description": "Targets hit with Stopping Power are slowed by 10% for 8 seconds. (Slow reduces target's movement speed.)",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Salt On The Wounds",
+        "ChineseDescription": "",
+        "Description": "Deal 10% increased damage to targets below 30% health.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Back It Up",
+        "ChineseDescription": "",
+        "Description": "Walking/Strafing movement speed increased by 10% when an enemy is within 8m of player.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Weakened Defense",
+        "ChineseDescription": "",
+        "Description": "Increases the stamina damage from standard shots dealt to enemies blocking with shields by 50%. Increases armor penetration against targets that are not blocking with a shield by 10%.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Empowering Weakness",
+        "ChineseDescription": "",
+        "Description": "Hitting a target with an active debuff grants empower, increasing your damage by 5% for 5s.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hustle",
+        "ChineseDescription": "",
+        "Description": "After a dodge, gain a 10% haste for 3s. (Haste increases movement speed.)",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Tactical Reload",
+        "ChineseDescription": "",
+        "Description": "Dodging reloads the musket. (Can only trigger once every 6s.)",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Energy Burst",
+        "ChineseDescription": "",
+        "Description": "Attacking a target with an active debuff restores 5 stamina.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Kick 'em When They're Down",
+        "ChineseDescription": "",
+        "Description": "Deal 10% extra damage to targets with an active crowd control status effect. (Slow, Root, Stun.)",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Lethal Combo",
+        "ChineseDescription": "",
+        "Description": "Increase musket damage by 20% against targets affected by Trapper tree status effects.",
+        "Weapon": "Musket",
+        "Skill Tree": "Trapper",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Tondo",
+        "ChineseDescription": "",
+        "Description": "Slash so quickly that it extends the reach of your blade up to 5m. This strike deals 50% weapon damage and applies a bleed that will deal and additional 85% weapon damage over 12s. This bleed can stack up to 3 times, refreshing previous applications.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Thirst For Blood",
+        "ChineseDescription": "",
+        "Description": "When applying the first bleed stack to an opponent, Tondo's cooldown is reduced by 10%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "And Again",
+        "ChineseDescription": "",
+        "Description": "If you hit only one target, even on a blocked hit, Tondo's cooldown is reduced by 25%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Proper Spacing",
+        "ChineseDescription": "",
+        "Description": "Increases initial hit damage from Tondo by 100% if you are at least 4m away from your target.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Flurry",
+        "ChineseDescription": "",
+        "Description": "Enter a posed stance and unleash a series of five quick thrust attacks with each strike dealing more weapon damage starting at 47% and ending at 83%. Flurry can be canceled by dodging.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Overwhelm",
+        "ChineseDescription": "",
+        "Description": "Each hit of Flurry does 25% more block damage.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "To the Bone",
+        "ChineseDescription": "",
+        "Description": "Each hit of Flurry extends the rapier's bleed by 1s. Future stacking applications of this extended bleed will also be extended to its longer duration.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fleeting Strikes",
+        "ChineseDescription": "",
+        "Description": "Each hit of Flurry reduces its cooldown by 7%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Finalize",
+        "ChineseDescription": "",
+        "Description": "The last hit of Flurry will cause the enemy to stagger.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Flourish and Finish",
+        "ChineseDescription": "",
+        "Description": "Flourish performs an attack dealing 90% weapon damage and knocking back enemies. Pressing light attack at the end of Flourish will perform the followup attack, Finish. Finish lunges forward dealing 120% direct weapon damage and consumes all rapier bleeds on any target hit dealing 110% of their damage immediately.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "With Flair",
+        "ChineseDescription": "",
+        "Description": "Gain grit on both Flourish and Finish. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Swagger",
+        "ChineseDescription": "",
+        "Description": "Gain 20 stamina when successfully hitting a target with Finish.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fuel",
+        "ChineseDescription": "",
+        "Description": "Each tick of damage from Tondo's bleed reduces the cooldown of this ability by 3.5%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Bloody End",
+        "ChineseDescription": "",
+        "Description": "Finish deals 150% of the rapier's bleed damage instead of only 110%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Light Edge",
+        "ChineseDescription": "",
+        "Description": "Increase damage from both middle swipe attacks in the light attack chain by 8%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Strikes",
+        "ChineseDescription": "",
+        "Description": "Reduce all rapier cooldowns by 1% on any hit.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Heavy Puncture",
+        "ChineseDescription": "",
+        "Description": "Any heavy attack on a bleeding enemy will extend their rapier bleeds by 2 seconds. Future stacking applications of this extended bleed will also be extended to its longer duration.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unerring",
+        "ChineseDescription": "",
+        "Description": "Deal 5% more damage to targets with a rapier bleed.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Engarde",
+        "ChineseDescription": "",
+        "Description": "Deal 10% more damage when your target has greater than 50% health.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Blood",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Riposte",
+        "ChineseDescription": "",
+        "Description": "Enter into a defensive stance for 1s. If struck during this ability, counter the attacker dealing 50% weapon damage and stunning them briefly for 2s. You are briefly invulnerable upon a successful Riposte. Taunt Gem Compatible: If you have a Carnelian gem equipped in your rapier, this ability inflicts taunt for 4s to all foes within 5m. (Taunt causes monsters to focus only on you.)",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Insult to Injury",
+        "ChineseDescription": "",
+        "Description": "If the Riposte is triggered successfully, all of your attacks become uninterruptible for 3s.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Priority",
+        "ChineseDescription": "",
+        "Description": "Reduce the cooldown of other rapier abilities by 20% when landing a Riposte stun.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Lasting Consequence",
+        "ChineseDescription": "",
+        "Description": "Increase the stun from Riposte to 2.5s.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fleche",
+        "ChineseDescription": "",
+        "Description": "Leave the ground lunging forward for 10m in a stabbing motion and pierce through enemies dealing 145% weapon damage.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Quick Lunge",
+        "ChineseDescription": "",
+        "Description": "Killing with this ability reduces its cooldown by 80%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Backside",
+        "ChineseDescription": "",
+        "Description": "After performing Fleche, your next critical strike within 5s will deal 15% more damage.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Interruption",
+        "ChineseDescription": "",
+        "Description": "Pressing light attack any time during Fleche will stop and perform a static, continuation attack dealing 115% damage.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Evade",
+        "ChineseDescription": "",
+        "Description": "Perform a small, reliable sidestep in your current movement direction that cancels any current activity and provides momentary invulnerability. Light attacks made during Evade are performed exceptionally fast.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Breathe In",
+        "ChineseDescription": "",
+        "Description": "Gain 20 stamina immediately on use.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Allegro",
+        "ChineseDescription": "",
+        "Description": "Gain 20% haste for 3s on use. (Haste increases movement speed.)",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Adagio",
+        "ChineseDescription": "",
+        "Description": "Evading forward gains 15% increased damage on your next light attack. Ends on hit or after 1s.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Crescendo",
+        "ChineseDescription": "",
+        "Description": "Individual successful light attacks reduce the cooldown of this ability by 30% each.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Perfectionist",
+        "ChineseDescription": "",
+        "Description": "Deal 10% more damage when your health is full.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Controlled Breathing",
+        "ChineseDescription": "",
+        "Description": "Gain 3 stamina on any hit.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Swiftness",
+        "ChineseDescription": "",
+        "Description": "Gain 3% haste for 4s on rapier hits. Can stack up to 5 times. (Haste increases movement speed.)",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Desperation",
+        "ChineseDescription": "",
+        "Description": "Deal 10% more damage when your stamina is below 40%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Momentum",
+        "ChineseDescription": "",
+        "Description": "Deal 30% increased damage on your next light or heavy attack after performing an ability. Ends on hit or after 3s.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Red Curtains",
+        "ChineseDescription": "",
+        "Description": "Critical strikes reduce all cooldowns by 5%.",
+        "Weapon": "Rapier",
+        "Skill Tree": "Grace",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Javelin",
+        "ChineseDescription": "",
+        "Description": "Throw your spear, dealing 125% weapon damage and staggering on hit.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Forceful Impact",
+        "ChineseDescription": "",
+        "Description": "Targets are knocked down on hit.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Precision",
+        "ChineseDescription": "",
+        "Description": "Headshots reduce Javelin cooldown by 50%.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deadly Distance",
+        "ChineseDescription": "",
+        "Description": "Javelin deals 2.5% bonus damage per meter traveled. (Max 100%.)",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sweep",
+        "ChineseDescription": "",
+        "Description": "Sweep the target's legs, dealing 75% weapon damage and knocking them down.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Tenacious Sweep",
+        "ChineseDescription": "",
+        "Description": "Grit is now active during the attack. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Coup de Grâce",
+        "ChineseDescription": "",
+        "Description": "Press Basic Attack during Sweep to follow up with a heavy stab that deals 150% weapon damage.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Cyclone",
+        "ChineseDescription": "",
+        "Description": "Spin attack that deals 130% weapon damage, pushes targets back 3m and applies 50% slow for 3s. (Slow reduces target's movement speed.)",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Invigorating Combo",
+        "ChineseDescription": "",
+        "Description": "Restore 25 stamina per target hit.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Strong Momentum",
+        "ChineseDescription": "",
+        "Description": "Grit is now active during the attack. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deadly Consistency",
+        "ChineseDescription": "",
+        "Description": "Deal 10% increased damage on consecutive heavy attacks against a single target. Stacks up to 3 times.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deadly Reach",
+        "ChineseDescription": "",
+        "Description": "Critical chance is increased by 10% when attacking targets that are at least 3m away.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Reach",
+        "ChineseDescription": "",
+        "Description": "Successful heavy attacks reduce all spear cooldowns by 15%.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Evasive Maneuvers",
+        "ChineseDescription": "",
+        "Description": "Dodging backwards consumes 20% less stamina for 2s after a successful hit.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Invigorating Crits",
+        "ChineseDescription": "",
+        "Description": "Restore 20 stamina on critical hits.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Merciless Strength",
+        "ChineseDescription": "",
+        "Description": "Deal 25% increased damage against knocked down targets.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Defensive Stance",
+        "ChineseDescription": "",
+        "Description": "Gain fortify after successful heavy attacks, increasing damage absorption by 15% for 2s.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Strong Conditioning",
+        "ChineseDescription": "",
+        "Description": "Stamina regeneration rate is increased by 30% when your stamina is below 50%.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Reserved Strength",
+        "ChineseDescription": "",
+        "Description": "Deal 25% increased damage while stamina is full.",
+        "Weapon": "Spear",
+        "Skill Tree": "Zoner",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Skewer",
+        "ChineseDescription": "",
+        "Description": "Rush forward and skewer your target, dealing 125% weapon damage and applying bleed. Bleed deals 20% weapon damage every 1s for 10s.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deadly Ambush",
+        "ChineseDescription": "",
+        "Description": "Skewer deals 20% increased damage against targets that have full health.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Follow Through",
+        "ChineseDescription": "",
+        "Description": "Gain empower if Skewer critical hits, increasing damage by 20% for 10s.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deep Wound",
+        "ChineseDescription": "",
+        "Description": "Bleed duration increased to 15s.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Perforate",
+        "ChineseDescription": "",
+        "Description": "Execute 3 quick piercing strikes that each deal 80% weapon damage and apply rend, reducing the target's damage absorption by 5% for 10s.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Rupturing Strikes",
+        "ChineseDescription": "",
+        "Description": "Rend increased to 10% per strike against targets above 50% health.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Impactful Strikes",
+        "ChineseDescription": "",
+        "Description": "Target is staggered if you successfully land all 3 hits.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Vault Kick",
+        "ChineseDescription": "",
+        "Description": "Use your spear to vault forward and kick your target, dealing 75% weapon damage. Applies stun for 1.5s. Taunt Gem Compatible: If you have a Carnelian gem equipped in your spear, this ability inflicts taunt for 2s when it hits. (Taunt causes monsters to focus only on you.)",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Relentless Blows",
+        "ChineseDescription": "",
+        "Description": "Gain empower after successful hits on targets below 50% health, increasing damage by 20% for 5s.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Continuous Motion",
+        "ChineseDescription": "",
+        "Description": "Cooldowns for other spear abilities are reduced by 30% on successful hit.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Precise Jabs",
+        "ChineseDescription": "",
+        "Description": "Light attacks have a 5% increased critical chance.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Jabs",
+        "ChineseDescription": "",
+        "Description": "All spear ability cooldowns are reduced by 10% on the second hit of the light attack chain.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Crippling Jabs",
+        "ChineseDescription": "",
+        "Description": "The last hit of the light attack chain applies 30% slow for 3s to targets below 30% health. (Slow reduces target's movement speed.)",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Finishing Blows",
+        "ChineseDescription": "",
+        "Description": "Deal 15% increased damage against targets with less than 30% health.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unerring Precision",
+        "ChineseDescription": "",
+        "Description": "Deal 20% increased damage against targets with active grit.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Aggressive Maneuvers",
+        "ChineseDescription": "",
+        "Description": "The first successful hit with an ability within 2s of dodging reduces all spear cooldowns by 20%.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Exacerbating Crits",
+        "ChineseDescription": "",
+        "Description": "Critical hits extend the duration of your spear debuffs and damage over time effects by 20%.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Exposed Wounds",
+        "ChineseDescription": "",
+        "Description": "Critical chance is increased by 15% when attacking a bleeding target.",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Exploited Weakness",
+        "ChineseDescription": "",
+        "Description": "Deal 10% bonus damage for each debuff on your target. (Max 30%.)",
+        "Weapon": "Spear",
+        "Skill Tree": "Impaler",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Reverse Stab",
+        "ChineseDescription": "",
+        "Description": "A stab attack that deals 175% weapon damage.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Unstoppable Stab",
+        "ChineseDescription": "",
+        "Description": "Reverse Stab now has Grit. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Tactician",
+        "ChineseDescription": "",
+        "Description": "On a successful hit with Reverse Stab, all sword cooldowns are reduced by 25%.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Whirling Blade",
+        "ChineseDescription": "",
+        "Description": "Deal 145% weapon damage to all foes within 2m.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Opportunity",
+        "ChineseDescription": "",
+        "Description": "Whirling Blade inflicts a 5% rend for 10s. (Rend reduces target's defense.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Tactical Strike",
+        "ChineseDescription": "",
+        "Description": "Whirling Blade reduces its own cooldown by 10% for each enemy hit.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Leaping Strike",
+        "ChineseDescription": "",
+        "Description": "Leap 6m and deal 150% weapon damage.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Final Strike",
+        "ChineseDescription": "",
+        "Description": "If you hit a foe below 30% health, deal 50% more damage.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Cowardly Punishment",
+        "ChineseDescription": "",
+        "Description": "If Leaping Strike hits a target in the back, it inflicts a 50% slow for 8s. (Slow reduces target's movement speed.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Empowered Stab",
+        "ChineseDescription": "",
+        "Description": "Successful heavy attacks grant you 30% empower for 5s. (Empower increases damage.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Achilles' Heel",
+        "ChineseDescription": "",
+        "Description": "The final attack in your light attack chain inflicts a 20% slow for 2s. (Slow reduces target's movement speed.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Precision",
+        "ChineseDescription": "",
+        "Description": "Sword and shield critical strike chance increased by 10%.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Freeing Justice",
+        "ChineseDescription": "",
+        "Description": "Successfully hitting with a heavy attack causes you to lose 1 debuff.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mobility",
+        "ChineseDescription": "",
+        "Description": "Move 33% faster while blocking.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Counter Attack",
+        "ChineseDescription": "",
+        "Description": "When you block an attack, gain a stack of 3% empower for 5s. (Empower increases damage.) (Max 5 stacks.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Opportunist",
+        "ChineseDescription": "",
+        "Description": "Deal 10% more damage to slowed foes.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Critical Precision",
+        "ChineseDescription": "",
+        "Description": "On critical, gain 20% haste for 5s. (Haste increases movement speed)",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Confidence",
+        "ChineseDescription": "",
+        "Description": "While health is full, deal 15% more damage.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Leadership",
+        "ChineseDescription": "",
+        "Description": "While holding a sword, the damage of all group members is increased by 10%.",
+        "Weapon": "Sword",
+        "Skill Tree": "Swordmaster",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shield Bash",
+        "ChineseDescription": "",
+        "Description": "Deals 50% weapon damage and stuns foes in front of you for 2s. Taunt Gem Compatible: If you have a Carnelian gem equipped in your sword, this ability inflicts taunt for 6s to all enemies hit. (Taunt causes monsters to focus only on you.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Intimidating Bash",
+        "ChineseDescription": "",
+        "Description": "Shield Bash causes greatly increased threat and deals 100% more damage.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Concussive Bash",
+        "ChineseDescription": "",
+        "Description": "Shield Bash stun duration increased by 1s.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shield Rush",
+        "ChineseDescription": "",
+        "Description": "Rush forward 5m and knock back foes. This attack deals 125% weapon damage.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Improved Rush",
+        "ChineseDescription": "",
+        "Description": "On a successful hit, all enemies within 5m are weakened 10% for 10s. (Weaken reduces damage.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Intimidating Rush",
+        "ChineseDescription": "",
+        "Description": "On a successful hit, all enemies within 5m of you are slowed by 30% for 4s. (Slow reduces target's movement speed.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Defiant Stance",
+        "ChineseDescription": "",
+        "Description": "For 8s, reduce the incoming base damage from attackers by 30%. Taunt Gem Compatible: If you have a Carnelian gem equipped in your sword, this ability inflicts taunt for 6s to all enemies within 8m. (Taunt causes monsters to focus only on you.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Final Countdown",
+        "ChineseDescription": "",
+        "Description": "If your health is above 50%, damage reduction is increased by 20%.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Restoration",
+        "ChineseDescription": "",
+        "Description": "When Defiant Stance ends, heal 15% of your max health.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sturdy Shield",
+        "ChineseDescription": "",
+        "Description": "Grants an additional 15% physical armor.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Sturdy Grip",
+        "ChineseDescription": "",
+        "Description": "Stamina damage is reduced by 15% when blocking a melee attack with a shield.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Elemental Resistance",
+        "ChineseDescription": "",
+        "Description": "Reduce damage from all magical types by 10%.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Defensive Training",
+        "ChineseDescription": "",
+        "Description": "When you block an attack, gain 10% fortify for 5s. (Fortify reduces incoming damage.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "High Grip",
+        "ChineseDescription": "",
+        "Description": "Stamina damage is reduced by 15% when blocking a ranged attack with a shield.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "One with the Shield",
+        "ChineseDescription": "",
+        "Description": "When you block with a shield, all sword and shield cooldowns are reduced by 1%.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Final Blow",
+        "ChineseDescription": "",
+        "Description": "The third attack in your light attack chain deals 15% more damage and causes more threat.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Invigorating Bulwark",
+        "ChineseDescription": "",
+        "Description": "Gain 15 stamina when hitting a target with Shield Bash or Shield Rush.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Recuperation",
+        "ChineseDescription": "",
+        "Description": "All incoming healing and regeneration increased by 10%.",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Defensive Formation",
+        "ChineseDescription": "",
+        "Description": "While blocking, reduce damage to all allies within 2m by 30%. (Cooldown 1s.)",
+        "Weapon": "Sword",
+        "Skill Tree": "Defender",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Armor Breaker",
+        "ChineseDescription": "",
+        "Description": "A powerful swing that penetrates 35% of the target's armor and deals 140% weapon damage.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Indomitable",
+        "ChineseDescription": "",
+        "Description": "Adds grit to Armor Breaker. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Lasting Trauma",
+        "ChineseDescription": "",
+        "Description": "Armor Breaker inflicts rend on the target, reducing damage absorption by 20% for 10s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Opening Act",
+        "ChineseDescription": "",
+        "Description": "Increase Armor Breaker damage by 25% against targets at full health.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mighty Gavel",
+        "ChineseDescription": "",
+        "Description": "An overhead leaping attack that crushes down on enemies, dealing 170% weapon damage.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Summary Judgment",
+        "ChineseDescription": "",
+        "Description": "Increases Mighty Gavel damage by 20% to targets below 30% health.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Impact Fracture",
+        "ChineseDescription": "",
+        "Description": "Increase stamina damage done by Mighty Gavel by 25%.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Expedite",
+        "ChineseDescription": "",
+        "Description": "After a successful Mighty Gavel attack, gain haste, increasing player's movement speed by 30% for 3s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Justice For All",
+        "ChineseDescription": "",
+        "Description": "Pressing light attack during Mighty Gavel performs a followup attack that deals 220% weapon damage.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Wrecking Ball",
+        "ChineseDescription": "",
+        "Description": "Strike the ground with your war hammer, dealing 130% weapon damage and flattening your target.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Safety Measures",
+        "ChineseDescription": "",
+        "Description": "On a successful hit, gain fortify, granting 20% damage resistance for 7s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Breathing Room",
+        "ChineseDescription": "",
+        "Description": "All targets within 1.5m of target hit are also flattened.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Epitome Of Bonk!",
+        "ChineseDescription": "",
+        "Description": "Increase armor penetration by 10% for all war hammer light and heavy attacks.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hammer Time",
+        "ChineseDescription": "",
+        "Description": "Gain empower on heavy attacks, increasing attack damage by 20% for 4s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Exhaustive Attacks",
+        "ChineseDescription": "",
+        "Description": "All war hammer abilities apply exhaust, slowing target's stamina regeneration by 20% for 5s. (Does not stack.)",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Hardened Steel",
+        "ChineseDescription": "",
+        "Description": "Adds grit to war hammer heavy attacks, and grants 20% damage reduction while the heavy attack grit is active. (Grit prevents you from being staggered by incoming attacks.)",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Contemption",
+        "ChineseDescription": "",
+        "Description": "Increase heavy attack damage by 15% against targets under 30% health.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Quick Recovery",
+        "ChineseDescription": "",
+        "Description": "Heavy attacks that hit reduce cooldowns by 7%.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Power Through Pain",
+        "ChineseDescription": "",
+        "Description": "Deal 35% extra damage for 1s after taking damage.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Juggernaut",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Clear Out",
+        "ChineseDescription": "",
+        "Description": "A wide swing that knocks enemies back 4m and deals 115% weapon damage.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Power Cleaner",
+        "ChineseDescription": "",
+        "Description": "Hitting a target with Clear Out grants fortify, providing a 10% defense bonus for 4s to all friendlies within 6m.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Clean and Refreshed",
+        "ChineseDescription": "",
+        "Description": "Clear Out's cooldown is reduced by 5% per enemy hit with the ability.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Swing Away",
+        "ChineseDescription": "",
+        "Description": "Using Clear Out on a target grants haste, increasing movement speed by 30% for 3s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Shockwave",
+        "ChineseDescription": "",
+        "Description": "Slam your war hammer into the ground, causing a 3m radius earthquake that deals 80% weapon damage. Stuns to all impacted targets for 2s. Taunt Gem Compatible: If you have a Carnelian gem equipped in your war hammer, this ability inflicts taunt for 6s to all enemies hit. (Taunt causes monsters to focus only on you.)",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Frailty",
+        "ChineseDescription": "",
+        "Description": "The trauma of the attack causes weaken, decreasing the damage dealt from the target's attacks by 10% for 10s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Meteoric Crater",
+        "ChineseDescription": "",
+        "Description": "Expands the range Shockwave to a 4m radius.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Path Of Destiny",
+        "ChineseDescription": "",
+        "Description": "A powerful ground strike that erupts a linear wave of energy in front of the player, dealing 110% weapon damage to all targets in its path.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Seismic Waves",
+        "ChineseDescription": "",
+        "Description": "Path of Destiny now staggers all targets in its path.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Stimulated Reduction",
+        "ChineseDescription": "",
+        "Description": "Ability cooldown reduced by 5% for each enemy hit with Path of Destiny.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Outnumbered",
+        "ChineseDescription": "",
+        "Description": "Increase damage absorption by 10% if surrounded by 2 or more enemies within 3m.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "I Can Do This All Day",
+        "ChineseDescription": "",
+        "Description": "Reduce stamina consumption by 30% when blocking melee attacks.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Guarded Sprint",
+        "ChineseDescription": "",
+        "Description": "Reduce damage taken by 10% while sprinting.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Acceleration",
+        "ChineseDescription": "",
+        "Description": "Reduce war hammer cooldowns by 7% when using light attacks against targets with an active debuff.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Facilitated Expedition",
+        "ChineseDescription": "",
+        "Description": "After hitting a target with an active debuff, gain haste, increasing movement speed by 15% for 3s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Concussive Impact",
+        "ChineseDescription": "",
+        "Description": "Deal 15% increased damage against targets affected by war hammer debuffs.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Prevailing Spirit",
+        "ChineseDescription": "",
+        "Description": "Regain 35% of damage dealt as health when using a Crowd Crusher ability.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Resurgence",
+        "ChineseDescription": "",
+        "Description": "After 2 light attacks with the war hammer, debuff durations on player are reduced by 25%. (Cooldown 5s.)",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Aftershock",
+        "ChineseDescription": "",
+        "Description": "Whenever a target is affected by a crowd control effect, they are slowed by 20% for 4s.",
+        "Weapon": "War Hammer",
+        "Skill Tree": "Crowd Crusher",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Void Blade",
+        "ChineseDescription": "",
+        "Description": "Summon a blade of Void energy that converts your basic attacks to melee. Tap Basic Attack to perform a quick slash that deals 100% weapon damage or hold to perform a thrust attack that deals 150% weapon damage. Both attacks inflict Disintegrate on successful hits, dealing 5% weapon damage per second and reducing damage absorption by 5% for 8s. Stacks up to 3 times. 15s duration. Costs 20 Mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fortified Blade",
+        "ChineseDescription": "",
+        "Description": "Gain Fortify on start, increasing damage absorption by 20% for 5s.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Vicious Void",
+        "ChineseDescription": "",
+        "Description": "+10% Critical Damage on Void Blade attacks.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Leeching Blade",
+        "ChineseDescription": "",
+        "Description": "Successful thrust attacks heal self for 5% weapon damage per Disintegrate stack on target. Scales exclusively with Focus.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Oblivion",
+        "ChineseDescription": "",
+        "Description": "Summon a circular rift of Void energy at your feet that deals 30% weapon damage per second to enemies and grants Empower to self and friendlies, increasing damage by 20%. 5m radius. 6s duration. Costs 30 Mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Withering Oblivion",
+        "ChineseDescription": "",
+        "Description": "Your attacks inflict Weaken to targets inside the radius, reducing their damage by 5% for 5s per hit. Stacks up to 3 times.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Invigorating Oblivion",
+        "ChineseDescription": "",
+        "Description": "+15 Stamina per second for self and friendlies while inside the radius.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Petrifying Scream",
+        "ChineseDescription": "",
+        "Description": "Unleash a Void-infused scream, dealing 100% weapon damage, staggering and inflicting Root to enemies 5m in front of you. Disables enemy movement for 2s. Costs 25 Mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Bone-chilling Voice",
+        "ChineseDescription": "",
+        "Description": "Root duration increased by 1s on targets below 50% health.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fortifying Echoes",
+        "ChineseDescription": "",
+        "Description": "Gain Fortify for each enemy hit, increasing damage absorption by 10% for 10s per hit. Stacks up to 3 times.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Forsaken Pact",
+        "ChineseDescription": "",
+        "Description": "+10% damage while below 50% mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Keen Confidence",
+        "ChineseDescription": "",
+        "Description": "+10% Critical Chance while above 50% health.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Keen Humility",
+        "ChineseDescription": "",
+        "Description": "+10% Critical Chance while all abilities are on cooldown.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Precision",
+        "ChineseDescription": "",
+        "Description": "+10% Cooldown Reduction on all abilities on Critical Hit.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Empowering Proximity",
+        "ChineseDescription": "",
+        "Description": "Gain Empower when casting abilities within 5m of an enemy, increasing damage by 10% for 5s. Stacks up to 3 times.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Efficient Harvest",
+        "ChineseDescription": "",
+        "Description": "Harvest Essence health drain is reduced by 50% while below 25% mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Leeching Agony",
+        "ChineseDescription": "",
+        "Description": "On Critical Hit, gain health equal to 15% of damage done.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Frailty",
+        "ChineseDescription": "",
+        "Description": "+5% Cooldown Reduction on all abilities when successfully hitting enemies afflicted by 3 or more debuff stacks (can be from different debuffs).",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Voidcaller",
+        "ChineseDescription": "",
+        "Description": "On successful ability hit, gain a stack of Void Essence. At 6 stacks, consume all stacks and gain a 3m aura that heals self and friendlies for 30% weapon damage and deals 30% weapon damage per second to enemies within. Healing scales exclusively with Focus. 5s duration. 20s cooldown.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Annihilation",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Orb of Decay",
+        "ChineseDescription": "",
+        "Description": "Fire an unblockable orb that passes through enemies, deals 100% weapon damage and inflicts Disintegrate, dealing 5% weapon damage per second and reducing damage absorption by 5% for 8s. Stacks up to 3 times. At max range, it transforms into a healing orb and returns, healing friendlies for 20% weapon damage per second for 5s. Healing scales exclusively with Focus. Costs 20 Mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Draining Orb",
+        "ChineseDescription": "",
+        "Description": "Gain +5% mana per enemy hit by the orb.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Slowing Orb",
+        "ChineseDescription": "",
+        "Description": "The orb slows enemies already afflicted by any debuff, reducing their movement speed by 30% for 3s.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Detonating Orb",
+        "ChineseDescription": "",
+        "Description": "Press the ability input again to detonate the orb with a 4m explosion radius. Depending on the orb's phase, the explosion will either damage enemies for 100% weapon damage and apply a stack of Disintegrate or heal friendlies for 70% weapon damage. Healing scales exclusively with Focus.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Baleful Tether",
+        "ChineseDescription": "",
+        "Description": "Fire a projectile that tethers you to an enemy, Weakening it and Empowering you by 4% per second (20% maximum). The tether ends if the target moves beyond 15m. 10s duration. Costs 25 Mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Tethered Refresh",
+        "ChineseDescription": "",
+        "Description": "Successful hits against the tethered target reduce other Void Gauntlet cooldowns by 5%.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Tethered Focus",
+        "ChineseDescription": "",
+        "Description": "+100% mana regeneration while the tether is active.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Soul Eater",
+        "ChineseDescription": "",
+        "Description": "Regain 80% weapon damage as health if the tethered target dies. Scales exclusively with Focus.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Essence Rupture",
+        "ChineseDescription": "",
+        "Description": "Fire a projectile that inflicts Essence Rupture for 10 seconds, healing anyone that hits the target for 20% of the damage done. Does not apply to damage-over-time. Costs 25 Mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Active"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Invigorating Rupture",
+        "ChineseDescription": "",
+        "Description": "Players additionally receive 15 stamina when hitting the afflicted target.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Overflowing Essence",
+        "ChineseDescription": "",
+        "Description": "Friendlies within 4m of the afflicted target are healed for 80% of your weapon damage when Essence Rupture ends. Scales exclusively with Focus.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Deadly Range",
+        "ChineseDescription": "",
+        "Description": "+10% damage on successful ranged heavy attacks against targets more than 8m away.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Fervent Thirst",
+        "ChineseDescription": "",
+        "Description": "+5% Mana per successful ranged light attack against targets afflicted by your Void Gauntlet debuffs.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Radiant Efficiency",
+        "ChineseDescription": "",
+        "Description": "Mana costs are reduced by 25% while above 50% Mana.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Refreshing Harvest",
+        "ChineseDescription": "",
+        "Description": "Cooldowns are reduced by 10% per second while performing Harvest Essence.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Leeching Bolts",
+        "ChineseDescription": "",
+        "Description": "Healing from ranged heavy attacks is increased by an additional 30% of damage dealt if the target is below 50% health.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Extended Suffering",
+        "ChineseDescription": "",
+        "Description": "Successful ranged heavy attacks increase the duration of non-crowd control debuffs you have applied by 10%.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Mending Evasion",
+        "ChineseDescription": "",
+        "Description": "Dodging with full mana heals you for 80% weapon damage. Scales exclusively with Focus. 20s cooldown.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "Glimpse of the Void",
+        "ChineseDescription": "",
+        "Description": "Gain a stack of Void Essence per successful ability hit. At 4 or more stacks, your next successful ranged heavy attack will instantly reset all Void Gauntlet cooldowns and remove all stacks. 15s cooldown.",
+        "Weapon": "Void Gauntlet",
+        "Skill Tree": "Decay",
+        "Type": "Passive"
+    },
+    {
+        "FIELD1": "",
+        "Name": "",
+        "ChineseDescription": "",
+        "Description": "Void Gauntlet",
+        "Weapon": "Annihilation",
+        "Skill Tree": "Passive",
+        "Type": ""
+    },
+    {
+        "FIELD1": "",
+        "Name": "",
+        "ChineseDescription": "",
+        "Description": "Void Gauntlet",
+        "Weapon": "Annihilation",
+        "Skill Tree": "Passive",
+        "Type": ""
+    },
+    {
+        "FIELD1": "",
+        "Name": "",
+        "ChineseDescription": "",
+        "Description": "Void Gauntlet",
+        "Weapon": "Annihilation",
+        "Skill Tree": "Passive",
+        "Type": ""
+    }
+]
