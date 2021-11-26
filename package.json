@@ -1,8 +1,9 @@
 {
   "name": "material-dashboard-react",
+  "private": true,
+  "homepage": "https://dereklau1019.github.io/New-World-Database-Traditional-Chinese/",
   "version": "1.10.0",
   "description": "New World Database for Seawolf1019's Friends !",
-  "private": false,
   "main": "dist/index.js",
   "dependencies": {
     "@material-ui/core": "4.11.4",
