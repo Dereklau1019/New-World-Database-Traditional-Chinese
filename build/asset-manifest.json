@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/NewWorldDatabaseTraditionalChinese/static/css/main.69014dd0.chunk.css",
-    "main.js": "/NewWorldDatabaseTraditionalChinese/static/js/main.01a517d3.chunk.js",
-    "main.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/main.01a517d3.chunk.js.map",
+    "main.js": "/NewWorldDatabaseTraditionalChinese/static/js/main.c958ff6d.chunk.js",
+    "main.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/main.c958ff6d.chunk.js.map",
     "runtime-main.js": "/NewWorldDatabaseTraditionalChinese/static/js/runtime-main.77ea34e7.js",
     "runtime-main.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/runtime-main.77ea34e7.js.map",
     "static/css/2.1881a404.chunk.css": "/NewWorldDatabaseTraditionalChinese/static/css/2.1881a404.chunk.css",
-    "static/js/2.9b2e4952.chunk.js": "/NewWorldDatabaseTraditionalChinese/static/js/2.9b2e4952.chunk.js",
-    "static/js/2.9b2e4952.chunk.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/2.9b2e4952.chunk.js.map",
+    "static/js/2.ce9e4599.chunk.js": "/NewWorldDatabaseTraditionalChinese/static/js/2.ce9e4599.chunk.js",
+    "static/js/2.ce9e4599.chunk.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/2.ce9e4599.chunk.js.map",
     "index.html": "/NewWorldDatabaseTraditionalChinese/index.html",
     "static/css/2.1881a404.chunk.css.map": "/NewWorldDatabaseTraditionalChinese/static/css/2.1881a404.chunk.css.map",
     "static/css/main.69014dd0.chunk.css.map": "/NewWorldDatabaseTraditionalChinese/static/css/main.69014dd0.chunk.css.map",
-    "static/js/2.9b2e4952.chunk.js.LICENSE.txt": "/NewWorldDatabaseTraditionalChinese/static/js/2.9b2e4952.chunk.js.LICENSE.txt",
+    "static/js/2.ce9e4599.chunk.js.LICENSE.txt": "/NewWorldDatabaseTraditionalChinese/static/js/2.ce9e4599.chunk.js.LICENSE.txt",
     "static/media/sidebar-1.0a127c58.jpg": "/NewWorldDatabaseTraditionalChinese/static/media/sidebar-1.0a127c58.jpg",
     "static/media/sidebar-2.22f68ba5.jpg": "/NewWorldDatabaseTraditionalChinese/static/media/sidebar-2.22f68ba5.jpg",
     "static/media/sidebar-3.e667b13e.jpg": "/NewWorldDatabaseTraditionalChinese/static/media/sidebar-3.e667b13e.jpg",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.77ea34e7.js",
     "static/css/2.1881a404.chunk.css",
-    "static/js/2.9b2e4952.chunk.js",
+    "static/js/2.ce9e4599.chunk.js",
     "static/css/main.69014dd0.chunk.css",
-    "static/js/main.01a517d3.chunk.js"
+    "static/js/main.c958ff6d.chunk.js"
   ]
 }
