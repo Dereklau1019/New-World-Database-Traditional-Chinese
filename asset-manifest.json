@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NewWorldDatabaseTraditionalChinese/static/css/main.69014dd0.chunk.css",
-    "main.js": "/NewWorldDatabaseTraditionalChinese/static/js/main.ff1097e6.chunk.js",
-    "main.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/main.ff1097e6.chunk.js.map",
+    "main.js": "/NewWorldDatabaseTraditionalChinese/static/js/main.c958ff6d.chunk.js",
+    "main.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/main.c958ff6d.chunk.js.map",
     "runtime-main.js": "/NewWorldDatabaseTraditionalChinese/static/js/runtime-main.77ea34e7.js",
     "runtime-main.js.map": "/NewWorldDatabaseTraditionalChinese/static/js/runtime-main.77ea34e7.js.map",
     "static/css/2.1881a404.chunk.css": "/NewWorldDatabaseTraditionalChinese/static/css/2.1881a404.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.1881a404.chunk.css",
     "static/js/2.ce9e4599.chunk.js",
     "static/css/main.69014dd0.chunk.css",
-    "static/js/main.ff1097e6.chunk.js"
+    "static/js/main.c958ff6d.chunk.js"
   ]
 }
