@@ -6,10 +6,10 @@ import "perfect-scrollbar/css/perfect-scrollbar.css";
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
 // core components
-import Navbar from "components/Navbars/Navbar.js";
-import Footer from "components/Footer/Footer.js";
-import Sidebar from "components/Sidebar/Sidebar.js";
-import FixedPlugin from "components/FixedPlugin/FixedPlugin.js";
+import Navbar from "components/Resource/Navbars/Navbar.js";
+import Footer from "components/Resource/Footer/Footer.js";
+import Sidebar from "components/Resource/Sidebar/Sidebar.js";
+import FixedPlugin from "components/Resource/FixedPlugin/FixedPlugin.js";
 
 import routes from "routes.js";
 
@@ -23,10 +23,10 @@ let ps;
 const switchRoutes = (
   <Switch>
     {routes.map((prop, key) => {
-      if (prop.layout === "/admin") {
+      if (prop.path !== "") {
         return (
           <Route
-            path={prop.layout + prop.path}
+            path={prop.path}
             component={prop.component}
             key={key}
           />
@@ -34,7 +34,7 @@ const switchRoutes = (
       }
       return null;
     })}
-    <Redirect from="/admin" to="/admin/dashboard" />
+    <Redirect from="/a" to="/Home" />
   </Switch>
 );
 

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "gemImage": "",
+    "typeOfGem": "海藍寶石",
+    "effectNames": "凍結",
+    "effects": "20/30/40/50% 的傷害會轉化為冰。傷害從 INT 或基礎武器統計數據中增加，以較高者為準。"
+  },
+  {
+    "id": "2",
+    "gemImage": "",
+    "typeOfGem": "Ruby",
+    "effectNames": "點燃",
+    "effects": "20/30/40/50% 的傷害會轉化為火焰。傷害從 INT 或基礎武器統計數據中增加，以較高者為準。"
+  },
+  {
+    "id": "3",
+    "gemImage": "",
+    "typeOfGem": "黃玉",
+    "effectNames": "通電",
+    "effects": "20/30/40/50% 的傷害會轉化為閃電。傷害從 INT 或基礎武器統計數據中增加，以較高者為準。"
+  },
+  {
+    "id": "4",
+    "gemImage": "",
+    "typeOfGem": "琥珀",
+    "effectNames": "樹棲",
+    "effects": "20/30/40/50% 的傷害會轉化為自然傷害。傷害根據 FOC 或基礎武器統計數據進行調整，以較高者為準。"
+  },
+  {
+    "id": "5",
+    "gemImage": "",
+    "typeOfGem": "紫水晶",
+    "effectNames": "深淵",
+    "effects": "20/30/40/50% 的傷害轉化為虛空。傷害從 INT 或基礎武器統計數據中增加，以較高者為準。"
+  },
+  {
+    "id": "6",
+    "gemImage": "",
+    "typeOfGem": "藍寶石",
+    "effectNames": "賦能",
+    "effects": "20/30/40/50% 的傷害轉化為奧術。傷害從 INT 或基礎武器統計數據中增加，以較高者為準。"
+  },
+  {
+    "id": "7",
+    "gemImage": "",
+    "typeOfGem": "碧玉",
+    "effectNames": "報復",
+    "effects": "受到 3 次攻擊後 +6/9/12/15% 傷害。"
+  },
+  {
+    "id": "8",
+    "gemImage": "",
+    "typeOfGem": "月光石",
+    "effectNames": "令人振奮",
+    "effects": "當玩家生命值低於 30% 時 +12/16/20/24% 傷害。"
+  },
+  {
+    "id": "9",
+    "gemImage": "",
+    "typeOfGem": "祖母綠",
+    "effectNames": "機會主義者",
+    "effects": "對生命值低於 30% 的目標造成 +8/12/16/20% 傷害。"
+  },
+  {
+    "id": "10",
+    "gemImage": "",
+    "typeOfGem": "瑪瑙",
+    "effectNames": "傲慢",
+    "effects": "對全生命值的目標造成 +15/20/25/30% 傷害。"
+  },
+  {
+    "id": "11",
+    "gemImage": "",
+    "typeOfGem": "蛋白石",
+    "effectNames": "Gambit",
+    "effects": "當你的體力未滿時 +6/9/12/15% 傷害。"
+  },
+  {
+    "id": "12",
+    "gemImage": "",
+    "typeOfGem": "鑽石",
+    "effectNames": "拉力賽",
+    "effects": "+6/9/12/15% 傷害和在滿血狀態下治療。"
+  },
+  {
+    "id": "13",
+    "gemImage": "",
+    "typeOfGem": "孔雀石",
+    "effectNames": "殘酷的",
+    "effects": "+6/8/10/12% 對人群控制目標的傷害。"
+  },
+  {
+    "id": "14",
+    "gemImage": "",
+    "typeOfGem": "紅玉髓",
+    "effectNames": "嘲諷",
+    "effects": "你產生的威脅值 +100/200/250/300%。"
+  },
+  {
+    "id": "15",
+    "gemImage": "",
+    "typeOfGem": "typeOfGem",
+    "effectNames": "effectNames(armor)",
+    "effects": "effects(armor)"
+  },
+  {
+    "id": "16",
+    "gemImage": "",
+    "typeOfGem": "海藍寶石",
+    "effectNames": "Ice Ward",
+    "effects": "+2/2.5/3/3.8% 冰系傷害吸收。"
+  },
+  {
+    "id": "17",
+    "gemImage": "",
+    "typeOfGem": "Ruby",
+    "effectNames": "防火區",
+    "effects": "+2/2.5/3/3.8% 火焰傷害吸收。"
+  },
+  {
+    "id": "18",
+    "gemImage": "",
+    "typeOfGem": "黃玉",
+    "effectNames": "閃電守衛",
+    "effects": "+2/2.5/3/3.8% 閃電傷害吸收。"
+  },
+  {
+    "id": "19",
+    "gemImage": "",
+    "typeOfGem": "琥珀",
+    "effectNames": "Nature Ward",
+    "effects": "+2/2.5/3/3.8% 自然傷害吸收。"
+  },
+  {
+    "id": "20",
+    "gemImage": "",
+    "typeOfGem": "紫水晶",
+    "effectNames": "虛空守衛",
+    "effects": "+2.5/3.5/5/6% 虛空傷害吸收。"
+  },
+  {
+    "id": "21",
+    "gemImage": "",
+    "typeOfGem": "藍寶石",
+    "effectNames": "奧術守衛",
+    "effects": "+2/2.5/3/3.8% 奧術傷害吸收。"
+  },
+  {
+    "id": "22",
+    "gemImage": "",
+    "typeOfGem": "碧玉",
+    "effectNames": "Strike Ward",
+    "effects": "+2/2.5/3/3.8% 打擊傷害吸收。"
+  },
+  {
+    "id": "23",
+    "gemImage": "",
+    "typeOfGem": "月光石",
+    "effectNames": "Slash Ward",
+    "effects": "+2/2.5/3/3.8% 斬擊傷害吸收。"
+  },
+  {
+    "id": "24",
+    "gemImage": "",
+    "typeOfGem": "祖母綠",
+    "effectNames": "推力病房",
+    "effects": "+2/2.5/3/3.8% 推力傷害吸收。"
+  }
+]
