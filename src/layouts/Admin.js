@@ -34,7 +34,7 @@ const switchRoutes = (
       }
       return null;
     })}
-    <Redirect from="/a" to="/Home" />
+    <Redirect from="/" to="/Home" />
   </Switch>
 );
 
