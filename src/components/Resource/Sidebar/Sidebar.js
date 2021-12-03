@@ -31,7 +31,7 @@ export default function Sidebar(props) {
       {routes.map((prop, key) => {
         var activePro = " ";
         var listItemClasses;
-        if (prop.path === "/upgrade-to-pro") {
+        if (prop.path === "/Contact-Us") {
           activePro = classes.activePro + " ";
           listItemClasses = classNames({
             [" " + classes[color]]: true,
@@ -82,18 +82,23 @@ export default function Sidebar(props) {
   );
   var brand = (
     <div className={classes.logo}>
-      <a
-        href="#"
+      <NavLink
+        to="/home"
         className={classNames(classes.logoLink, {
           [classes.logoLinkRTL]: props.rtlActive,
         })}
-        target="_blank"
+        activeClassName="active"
+        // target="_blank"
       >
         <div className={classes.logoImage}>
-          <img src={logo} alt="logo" className={classes.img} />
+          <img
+            src={require("../../../assets/img/new-world/NW.svg")}
+            alt="logo"
+            className={classes.img}
+          />
         </div>
         {logoText}
-      </a>
+      </NavLink>
     </div>
   );
   return (
@@ -115,7 +120,7 @@ export default function Sidebar(props) {
         >
           {brand}
           <div className={classes.sidebarWrapper}>
-            {props.rtlActive ? <RTLNavbarLinks /> : <AdminNavbarLinks />}
+            {props.rtlActive ? "" : <AdminNavbarLinks />}
             {links}
           </div>
           {image !== undefined ? (

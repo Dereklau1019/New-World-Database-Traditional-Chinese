@@ -1,5 +1,4 @@
 import * as React from "react";
-
 export interface NewWorldTableProps {
   tableHeads: String[];
   tableItems: any[];
@@ -31,7 +30,7 @@ export default class NewWorldTable extends React.Component<
             {this.props.tableItems.map((i) => (
               <tr key="TableItems">
                 <td>
-                  <img src={require("./onyxcutt4.png")} />
+                  <img src="../../../assets/img/new-world/getImages/onyxcutt4.png" />
                 </td>
                 <td>{i["typeOfGem"]}</td>
                 <td>{i["effectNames"]}</td>

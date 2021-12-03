@@ -13,6 +13,8 @@ import FixedPlugin from "components/Resource/FixedPlugin/FixedPlugin.js";
 
 import routes from "routes.js";
 
+import HomePage from "views/Home/Home";
+
 import styles from "assets/jss/material-dashboard-react/layouts/adminStyle.js";
 
 import bgImage from "assets/img/sidebar-2.jpg";
@@ -24,16 +26,11 @@ const switchRoutes = (
   <Switch>
     {routes.map((prop, key) => {
       if (prop.path !== "") {
-        return (
-          <Route
-            path={prop.path}
-            component={prop.component}
-            key={key}
-          />
-        );
+        return <Route path={prop.path} component={prop.component} key={key} />;
       }
       return null;
     })}
+    <Route path="/Home" component={HomePage} />
     <Redirect from="/" to="/Home" />
   </Switch>
 );
