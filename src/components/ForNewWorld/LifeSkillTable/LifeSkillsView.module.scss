@@ -1,3 +1,30 @@
-.table-caontainer {
-  display: block;
+.table-containger {
+  width: 250px;
+  height: 250px;
+  line-height: 250px;
+  background: gold;
+  position: relative;
+  img {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    z-index: 2;
+  }
+  .radialProgressBar {
+    position: absolute;
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background: #ddd;
+    z-index: 1;
+  }
+  .tradeSkillName{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 3;
+  }
 }
