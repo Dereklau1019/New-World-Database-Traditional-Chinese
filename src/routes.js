@@ -30,8 +30,8 @@ const Routes = [
     component: MostersView,
   },
   {
-    path: "/LifeSkills",
-    name: "Life Skills",
+    path: "/Trade Skills",
+    name: "Trade Skills",
     nameTC: "生活",
     icon: Person,
     component: LifeSkills,

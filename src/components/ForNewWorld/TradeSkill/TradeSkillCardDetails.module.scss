@@ -1,0 +1,51 @@
+.container {
+  height: 1000px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "x x x x x v v"
+    "y y y y y v v"
+    "z z z z z v v"
+    "z z z z z v v"
+    "z z z z z v v"
+    "z z z z z v v"
+    "z z z z z v v";
+}
+.box {
+  display: inline-block;
+  margin: 10px;
+  min-height: 80px;
+  min-width: 80px;
+  background: white;
+  border: 2px solid black;
+}
+
+.x {
+  background: blue;
+  grid-area: x;
+}
+
+.y {
+  background: red;
+  grid-area: y;
+}
+
+.z {
+  background: green;
+  grid-area: z;
+}
+
+.v {
+  background: yellow;
+  grid-area: v;
+}
+.x,
+.y,
+.z,
+.v {
+  text-align: center;
+  border: 2px solid black;
+}

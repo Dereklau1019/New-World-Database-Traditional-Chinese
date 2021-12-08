@@ -1,0 +1,47 @@
+.table-containger {
+  display: inline-block;
+  margin: 5px;
+  width: 120px;
+  height: 180px;
+  line-height: 250px;
+  background: rgb(81, 96, 42);
+  border-radius: 30px;
+  border: 5px solid black;
+  position: relative;
+  img {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-left: 25px;
+    margin-right: 25px;
+    bottom: 0px;
+    z-index: 1;
+  }
+  .radialProgressBar {
+    position: absolute;
+    border: 5px dashed black;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin: 15px 20px 20px 15px;
+    background: #ddd;
+    z-index: 1;
+  }
+  .tradeSkillName {
+    position: absolute;
+    width: 100%;
+    line-height: 25px;
+    bottom: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(245, 142, 62);
+    font-family: Cursive;
+    text-align: center;
+    z-index: 3;
+  }
+}
+span {
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: bold;
+}

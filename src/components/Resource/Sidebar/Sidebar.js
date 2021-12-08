@@ -14,6 +14,7 @@ import Icon from "@material-ui/core/Icon";
 // core components/Resource
 import AdminNavbarLinks from "components/Resource/Navbars/AdminNavbarLinks.js";
 
+import NewWorldLogo from "../../../assets/img/new-world/NW.svg";
 import styles from "assets/jss/material-dashboard-react/components/sidebarStyle.js";
 
 const useStyles = makeStyles(styles);
@@ -91,11 +92,7 @@ export default function Sidebar(props) {
         // target="_blank"
       >
         <div className={classes.logoImage}>
-          <img
-            src={require("../../../assets/img/new-world/NW.svg")}
-            alt="logo"
-            className={classes.img}
-          />
+          <img src={NewWorldLogo} alt="logo" className={classes.img} />
         </div>
         {logoText}
       </NavLink>
